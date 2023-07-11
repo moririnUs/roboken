@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "disbot-392501",
+  "private_key_id": "93dc06974db8cc1ef0e5a9c5b918ecc23cf2740f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCvnG31UIJlCAFB\nf9IsOEFvq+ThkFB2Zjka6LdvI9L8/+eh/2OIdt/VCJzyF0u2qCXub/xqDPF4yhV8\nmtxFmWd62QakT7XNsyESdLfCpfIDpiwpwsVlYy7vJIi4VVSfDE27A/G+zTs1Enbn\nlbsJvZIKemCTfVaRaDnKKqKyTiX98hRcRK3YqWdSJmYViItm9Stg64QsBsowijXw\nFIFfwoXqkX8YIK4Ya4kPWJDPowyyOGtzbnNaGkQrTVdhQHVvvnIxS/dHhiw6YKeS\nAO09oEsRmt5AkRzTW/I4mnaDmZowJO48DE9mum3iMFyGihJTcr4Yqtp8o0LmRARi\n0i6DilGRAgMBAAECggEACVSMWw5N/0QvnOVHq2XJxD8jyAA85i2ENzPKGzOSEDMg\ngXDqPuPh/JWakRo/wZKpgUOd65yIb9x8y8QGlAQUhWhme/BoPmeYCDz/Tm42r47y\npb1dc4eThM0yHmkaN+EVeCw7eeG5lZZHjwJbj6bszXW3D98G7G7XMzCUuFiCmD1f\n4DXKKj0P2amtDWA8ROEL2JzyKX3WcEzBNhhKw5Z97oQfn4/W/p96DVTJqvZZ+jZZ\nYW6HgdrKFKcvpU+awJhuGl3wcBPUA8YJDY/gsZKGBcchhLeMaBkXQ100kH/2JIG1\nGviLRaDEdoDucmGTXUWHKJM42NIzyWMRsmwvO/0ygQKBgQDbiJkHZwFUxXTocVDt\nsTUTaU9XmQeHjnji3woWDiIQOBl0zDDkNzWQy7ugmuPDvuMzSaemGxvKpkRBRiEd\nixn7VrZ2CMAHxhwXTOdeF/vrpX+4jLVJGKsNCvckPodL72ZasURL9n+tHmg2w3JW\nToNmLnhLXq77hfSQCfCwLvEyKQKBgQDMyBQrXigjs0DN2VoMyq4/i+rI2P008rS5\nWGR+Jig2+7EVDccEXk8Qd3UEONzrGKhT+GCJ32UdXYj9qRKxbU3zx+gVULGMvHYz\n9QplIiuuXJTzIZ7efUOwpp55Z5Zy+p3Qg7/C39TYo5/Jw63iCnT5ELHK9bwQaah7\ncUxrDiIhKQKBgHTStPR+ePPee77yBinmwiLJSKKJ2brmMygvnpNsA+5znABOZLod\nMxERiZAGvKu+2fLCAEfhZyGo5uuBYT/ydOoOE9yt/Vplry8rCnhE9RdKI7RWlGYI\njYXMTwXnjGH5TJN4f6qYywqaAsUZrq+E6mGm2vbotN8+Qo2f7IglAs85AoGBALsV\nWx/XsHIVFHI7TMJ89D4H9KIzYvhZd3QQ5hY9g+XfgYNLh/NcuXzAtb36uRFrAHVe\nZ8vttHHkfv/G09YWlu3NRyEaDGsXziFfj3SfiCqOWGHa6Eo5RHsBbaxaT5+RiFXz\n12AQn2Kf8Z4h0By/EuhsMRHL+FlCPfMwqfDwA4wpAoGBALmFiYavbpf1nGW2oIUR\nQxC+w7DFiFCSYhNFRytoY7GXYMaDde5R0GS3CDNvdrnG/MswW/sgLvXs/Eb9h6B5\njJ7kcQ+qJQJKmFfwoyFs9RxAZVeuyzIAr8G2OSjojh3/71qg4MLYPxxHEKNtxzhV\njcNI/fMcHwB37POCQyr1yBGd\n-----END PRIVATE KEY-----\n",
+  "client_email": "disbot-account@disbot-392501.iam.gserviceaccount.com",
+  "client_id": "106016386446030631757",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/disbot-account%40disbot-392501.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
